@@ -9,4 +9,4 @@ Curso de JavaScript
 - Ajax buscando paciente
 
 --------------------
- ![](https://github.com/jacksonn455/javascript/blob/master/img/img.png)
+ ![](https://github.com/jacksonn455/javascript/blob/master/img/image.png)
